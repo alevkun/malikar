@@ -1,10 +1,10 @@
 Package: malikar
 Type: Package
-Version: 0.4.1.9000
+Version: 1.0.1
 Title: A Grammar of Number Squaring
 Description: A fast, consistent tool for number squaring.
 Authors@R: c(
-    person("Winnie", "Pooh", "wpuh@hse.ru", c("aut", "cre"))
+    person("Winnie", "Pooh", email = "wpuh@hse.ru", c("aut", "cre"))
     )
 URL: https://github.com/alevkun/malikar
 BugReports: https://github.com/alevkun/malikar/issues

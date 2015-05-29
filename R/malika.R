@@ -11,3 +11,4 @@
 #' malika(5)
 #' malika(5, n = 6)
 malika <- function(x, n = 2) x^n
+
